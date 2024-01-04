@@ -1,0 +1,17 @@
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\bin\Debug\net7.0\OnlineShop.InfraStructure.deps.json
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\bin\Debug\net7.0\OnlineShop.InfraStructure.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\bin\Debug\net7.0\OnlineShop.InfraStructure.pdb
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\bin\Debug\net7.0\OnlineShop.Domain.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\bin\Debug\net7.0\OnlineShop.Domain.pdb
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\OnlineShop.InfraStructure.csproj.AssemblyReference.cache
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\OnlineShop.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\OnlineShop.InfraStructure.AssemblyInfoInputs.cache
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\OnlineShop.InfraStructure.AssemblyInfo.cs
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\OnlineShop.InfraStructure.csproj.CoreCompileInputs.cache
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\OnlineShop.InfraStructure.csproj.CopyComplete
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\OnlineShop.InfraStructure.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\refint\OnlineShop.InfraStructure.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\OnlineShop.InfraStructure.pdb
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\ref\OnlineShop.InfraStructure.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\bin\Debug\net7.0\OnlineShop.InfraStructure.runtimeconfig.json
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.InfraStructure\obj\Debug\net7.0\OnlineShop.InfraStructure.genruntimeconfig.cache

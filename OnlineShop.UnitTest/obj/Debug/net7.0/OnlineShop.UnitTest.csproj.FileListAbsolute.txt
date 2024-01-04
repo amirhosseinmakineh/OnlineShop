@@ -1,0 +1,11 @@
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\bin\Debug\net7.0\OnlineShop.UnitTest.deps.json
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\bin\Debug\net7.0\OnlineShop.UnitTest.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\bin\Debug\net7.0\OnlineShop.UnitTest.pdb
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\obj\Debug\net7.0\OnlineShop.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\obj\Debug\net7.0\OnlineShop.UnitTest.AssemblyInfoInputs.cache
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\obj\Debug\net7.0\OnlineShop.UnitTest.AssemblyInfo.cs
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\obj\Debug\net7.0\OnlineShop.UnitTest.csproj.CoreCompileInputs.cache
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\obj\Debug\net7.0\OnlineShop.UnitTest.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\obj\Debug\net7.0\refint\OnlineShop.UnitTest.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\obj\Debug\net7.0\OnlineShop.UnitTest.pdb
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.UnitTest\obj\Debug\net7.0\ref\OnlineShop.UnitTest.dll

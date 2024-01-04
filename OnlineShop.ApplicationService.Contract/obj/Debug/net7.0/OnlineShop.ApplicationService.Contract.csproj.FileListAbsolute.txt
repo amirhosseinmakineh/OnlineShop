@@ -1,0 +1,15 @@
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\bin\Debug\net7.0\OnlineShop.ApplicationService.Contract.deps.json
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\bin\Debug\net7.0\OnlineShop.ApplicationService.Contract.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\bin\Debug\net7.0\OnlineShop.ApplicationService.Contract.pdb
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\OnlineShop.ApplicationService.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\OnlineShop.ApplicationService.Contract.AssemblyInfoInputs.cache
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\OnlineShop.ApplicationService.Contract.AssemblyInfo.cs
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\OnlineShop.ApplicationService.Contract.csproj.CoreCompileInputs.cache
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\OnlineShop.ApplicationService.Contract.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\refint\OnlineShop.ApplicationService.Contract.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\OnlineShop.ApplicationService.Contract.pdb
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\ref\OnlineShop.ApplicationService.Contract.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\bin\Debug\net7.0\OnlineShop.Domain.dll
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\bin\Debug\net7.0\OnlineShop.Domain.pdb
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\OnlineShop.ApplicationService.Contract.csproj.AssemblyReference.cache
+D:\Backend\OnlineShop\OnlineShop\OnlineShop.ApplicationService.Contract\obj\Debug\net7.0\OnlineShop.ApplicationService.Contract.csproj.CopyComplete
